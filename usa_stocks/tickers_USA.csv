@@ -28,6 +28,7 @@ ALL,Allstate Corp,COMPANY,USD,1995-07-13,Financials,Property & Casualty Insuranc
 ALLE,Allegion,COMPANY,USD,2013-12-02,Industrials,Building Products
 ALXN,Alexion Pharmaceuticals,COMPANY,USD,2012-05-25,Health Care,Pharmaceuticals
 AMAT,Applied Materials,COMPANY,USD,1995-03-16,Information Technology,Semiconductor Equipment
+AMC,AMC Entertainment Holdings Inc,COMPANY,USD,2013-12-18,Communication Services,Entertainment
 AMCR,Amco,COMPANY,USD,2019-06-07,Materials,Paper Packaging
 AMD,Advanced Micro Devices,COMPANY,USD,,Information Technology,Semiconductors
 AME,Ametek,COMPANY,USD,2013-09-23,Industrials,Electrical Components & Equipment
@@ -201,6 +202,7 @@ GIS,General Mills,COMPANY,USD,1969-03-31,Consumer Staples,Packaged Foods & Meats
 GL,Globe Life,COMPANY,USD,1989-04-30,Financials,Life & Health Insurance
 GLW,Corning,COMPANY,USD,,Information Technology,Electronic Components
 GM,General Motors,COMPANY,USD,2013-06-06,Consumer Discretionary,Automobile Manufacturers
+GME,GameStop Corp,COMPANY,USD,2002-02-13,Consumer Cyclical,Specialty Retail
 GNRC,Generac Holdings,COMPANY,USD,2021-03-22,Industrials,Electrical Components & Equipment
 GOOG,Alphabet (Class C),COMPANY,USD,2006-04-03,Communication Services,Interactive Media & Services
 GOOGL,Alphabet (Class A),COMPANY,USD,2014-04-03,Communication Services,Interactive Media & Services
